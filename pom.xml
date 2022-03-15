@@ -13,7 +13,6 @@
         <module>eureka-server</module>
         <module>feign-api</module>
         <module>gateway</module>
-        <module>user-service02</module>
     </modules>
 
     <packaging>pom</packaging>
